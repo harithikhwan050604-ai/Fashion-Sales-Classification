@@ -42,5 +42,5 @@ levels to support inventory and marketing decisions.
   Classification, Cross-Validation
 
 ## 👤 Author
-Muhammad Nurhilman Bin Mohd Rozalee
-hilmanrozalee7@gmail.com
+Harith Ikhwan bin Suhaimi
+harithikhwan050604@gmail.com
